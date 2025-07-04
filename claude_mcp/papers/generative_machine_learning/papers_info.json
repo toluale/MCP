@@ -1,0 +1,56 @@
+{
+  "2001.04942v2": {
+    "title": "Private Machine Learning via Randomised Response",
+    "authors": [
+      "David Barber"
+    ],
+    "summary": "We introduce a general learning framework for private machine learning based\non randomised response. Our assumption is that all actors are potentially\nadversarial and as such we trust only to release a single noisy version of an\nindividual's datapoint. We discuss a general approach that forms a consistent\nway to estimate the true underlying machine learning model and demonstrate this\nin the case of logistic regression.",
+    "pdf_url": "http://arxiv.org/pdf/2001.04942v2",
+    "published": "2020-01-14"
+  },
+  "2204.07492v2": {
+    "title": "A Machine Learning Tutorial for Operational Meteorology, Part I: Traditional Machine Learning",
+    "authors": [
+      "Randy J. Chase",
+      "David R. Harrison",
+      "Amanda Burke",
+      "Gary M. Lackmann",
+      "Amy McGovern"
+    ],
+    "summary": "Recently, the use of machine learning in meteorology has increased greatly.\nWhile many machine learning methods are not new, university classes on machine\nlearning are largely unavailable to meteorology students and are not required\nto become a meteorologist. The lack of formal instruction has contributed to\nperception that machine learning methods are 'black boxes' and thus end-users\nare hesitant to apply the machine learning methods in their every day workflow.\nTo reduce the opaqueness of machine learning methods and lower hesitancy\ntowards machine learning in meteorology, this paper provides a survey of some\nof the most common machine learning methods. A familiar meteorological example\nis used to contextualize the machine learning methods while also discussing\nmachine learning topics using plain language. The following machine learning\nmethods are demonstrated: linear regression; logistic regression; decision\ntrees; random forest; gradient boosted decision trees; naive Bayes; and support\nvector machines. Beyond discussing the different methods, the paper also\ncontains discussions on the general machine learning process as well as best\npractices to enable readers to apply machine learning to their own datasets.\nFurthermore, all code (in the form of Jupyter notebooks and Google Colaboratory\nnotebooks) used to make the examples in the paper is provided in an effort to\ncatalyse the use of machine learning in meteorology.",
+    "pdf_url": "http://arxiv.org/pdf/2204.07492v2",
+    "published": "2022-04-15"
+  },
+  "1811.06622v1": {
+    "title": "Concept-Oriented Deep Learning: Generative Concept Representations",
+    "authors": [
+      "Daniel T. Chang"
+    ],
+    "summary": "Generative concept representations have three major advantages over\ndiscriminative ones: they can represent uncertainty, they support integration\nof learning and reasoning, and they are good for unsupervised and\nsemi-supervised learning. We discuss probabilistic and generative deep\nlearning, which generative concept representations are based on, and the use of\nvariational autoencoders and generative adversarial networks for learning\ngenerative concept representations, particularly for concepts whose data are\nsequences, structured data or graphs.",
+    "pdf_url": "http://arxiv.org/pdf/1811.06622v1",
+    "published": "2018-11-15"
+  },
+  "2006.15680v1": {
+    "title": "Modeling Generalization in Machine Learning: A Methodological and Computational Study",
+    "authors": [
+      "Pietro Barbiero",
+      "Giovanni Squillero",
+      "Alberto Tonda"
+    ],
+    "summary": "As machine learning becomes more and more available to the general public,\ntheoretical questions are turning into pressing practical issues. Possibly, one\nof the most relevant concerns is the assessment of our confidence in trusting\nmachine learning predictions. In many real-world cases, it is of utmost\nimportance to estimate the capabilities of a machine learning algorithm to\ngeneralize, i.e., to provide accurate predictions on unseen data, depending on\nthe characteristics of the target problem. In this work, we perform a\nmeta-analysis of 109 publicly-available classification data sets, modeling\nmachine learning generalization as a function of a variety of data set\ncharacteristics, ranging from number of samples to intrinsic dimensionality,\nfrom class-wise feature skewness to $F1$ evaluated on test samples falling\noutside the convex hull of the training set. Experimental results demonstrate\nthe relevance of using the concept of the convex hull of the training data in\nassessing machine learning generalization, by emphasizing the difference\nbetween interpolated and extrapolated predictions. Besides several predictable\ncorrelations, we observe unexpectedly weak associations between the\ngeneralization ability of machine learning models and all metrics related to\ndimensionality, thus challenging the common assumption that the \\textit{curse\nof dimensionality} might impair generalization in machine learning.",
+    "pdf_url": "http://arxiv.org/pdf/2006.15680v1",
+    "published": "2020-06-28"
+  },
+  "2110.12773v1": {
+    "title": "Scientific Machine Learning Benchmarks",
+    "authors": [
+      "Jeyan Thiyagalingam",
+      "Mallikarjun Shankar",
+      "Geoffrey Fox",
+      "Tony Hey"
+    ],
+    "summary": "The breakthrough in Deep Learning neural networks has transformed the use of\nAI and machine learning technologies for the analysis of very large\nexperimental datasets. These datasets are typically generated by large-scale\nexperimental facilities at national laboratories. In the context of science,\nscientific machine learning focuses on training machines to identify patterns,\ntrends, and anomalies to extract meaningful scientific insights from such\ndatasets. With a new generation of experimental facilities, the rate of data\ngeneration and the scale of data volumes will increasingly require the use of\nmore automated data analysis. At present, identifying the most appropriate\nmachine learning algorithm for the analysis of any given scientific dataset is\nstill a challenge for scientists. This is due to many different machine\nlearning frameworks, computer architectures, and machine learning models.\nHistorically, for modelling and simulation on HPC systems such problems have\nbeen addressed through benchmarking computer applications, algorithms, and\narchitectures. Extending such a benchmarking approach and identifying metrics\nfor the application of machine learning methods to scientific datasets is a new\nchallenge for both scientists and computer scientists. In this paper, we\ndescribe our approach to the development of scientific machine learning\nbenchmarks and review other approaches to benchmarking scientific machine\nlearning.",
+    "pdf_url": "http://arxiv.org/pdf/2110.12773v1",
+    "published": "2021-10-25"
+  }
+}

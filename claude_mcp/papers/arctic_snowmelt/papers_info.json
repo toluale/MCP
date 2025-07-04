@@ -1,0 +1,62 @@
+{
+  "2502.07741v1": {
+    "title": "Advancing climate model interpretability: Feature attribution for Arctic melt anomalies",
+    "authors": [
+      "Tolulope Ale",
+      "Nicole-Jeanne Schlegel",
+      "Vandana P. Janeja"
+    ],
+    "summary": "The focus of our work is improving the interpretability of anomalies in\nclimate models and advancing our understanding of Arctic melt dynamics. The\nArctic and Antarctic ice sheets are experiencing rapid surface melting and\nincreased freshwater runoff, contributing significantly to global sea level\nrise. Understanding the mechanisms driving snowmelt in these regions is\ncrucial. ERA5, a widely used reanalysis dataset in polar climate studies,\noffers extensive climate variables and global data assimilation. However, its\nsnowmelt model employs an energy imbalance approach that may oversimplify the\ncomplexity of surface melt. In contrast, the Glacier Energy and Mass Balance\n(GEMB) model incorporates additional physical processes, such as snow\naccumulation, firn densification, and meltwater percolation/refreezing,\nproviding a more detailed representation of surface melt dynamics. In this\nresearch, we focus on analyzing surface snowmelt dynamics of the Greenland Ice\nSheet using feature attribution for anomalous melt events in ERA5 and GEMB\nmodels. We present a novel unsupervised attribution method leveraging\ncounterfactual explanation method to analyze detected anomalies in ERA5 and\nGEMB. Our anomaly detection results are validated using MEaSUREs ground-truth\ndata, and the attributions are evaluated against established feature ranking\nmethods, including XGBoost, Shapley values, and Random Forest. Our attribution\nframework identifies the physics behind each model and the climate features\ndriving melt anomalies. These findings demonstrate the utility of our\nattribution method in enhancing the interpretability of anomalies in climate\nmodels and advancing our understanding of Arctic melt dynamics.",
+    "pdf_url": "http://arxiv.org/pdf/2502.07741v1",
+    "published": "2025-02-11"
+  },
+  "2407.10042v1": {
+    "title": "Harnessing Feature Clustering For Enhanced Anomaly Detection With Variational Autoencoder And Dynamic Threshold",
+    "authors": [
+      "Tolulope Ale",
+      "Nicole-Jeanne Schlegel",
+      "Vandana P. Janeja"
+    ],
+    "summary": "We introduce an anomaly detection method for multivariate time series data\nwith the aim of identifying critical periods and features influencing extreme\nclimate events like snowmelt in the Arctic. This method leverages the\nVariational Autoencoder (VAE) integrated with dynamic thresholding and\ncorrelation-based feature clustering. This framework enhances the VAE's ability\nto identify localized dependencies and learn the temporal relationships in\nclimate data, thereby improving the detection of anomalies as demonstrated by\nits higher F1-score on benchmark datasets. The study's main contributions\ninclude the development of a robust anomaly detection method, improving feature\nrepresentation within VAEs through clustering, and creating a dynamic threshold\nalgorithm for localized anomaly detection. This method offers explainability of\nclimate anomalies across different regions.",
+    "pdf_url": "http://arxiv.org/pdf/2407.10042v1",
+    "published": "2024-07-14"
+  },
+  "2302.01960v1": {
+    "title": "Dynamic Arctic weather variability and connectivity",
+    "authors": [
+      "Jun Meng",
+      "Jingfang Fan",
+      "Uma S Bhatt",
+      "J\u00fcrgen Kurths"
+    ],
+    "summary": "The rapidly shrinking Arctic sea ice is changing weather patterns and\ndisrupting the balance of nature. Dynamics of Arctic weather variability (WV)\nplays a crucial role in weather forecasting and is closely related to extreme\nweather events. Yet, assessing and quantifying the WV for both local Arctic\nregions and its planetary impacts under anthropogenic climate change is still\nunknown. Here, we develop a complexity-based approach to systematically\nevaluate and analyze the dynamic behaviour of WV. We reveal that the WV within\nand around the Arctic is statistically correlated to the Arctic Oscillation at\nthe intraseasonal time scale. We further find that the variability of the daily\nArctic sea ice is increasing due to its dramatic decline under a warming\nclimate. Unstable Arctic weather conditions can disturb regional weather\npatterns through atmospheric teleconnection pathways, resulting in higher risk\nto human activities and greater weather forecast uncertainty. A multivariate\nclimate network analysis reveals the existence of such teleconnections and\nimplies a positive feedback loop between the Arctic and global weather\ninstabilities. This enhances the mechanistic understanding of the influence of\nArctic amplification on mid-latitude severe weather. Our framework provides a\nfresh perspective on the linkage of complexity science, WV and the Arctic.",
+    "pdf_url": "http://arxiv.org/pdf/2302.01960v1",
+    "published": "2023-02-03"
+  },
+  "1205.6226v1": {
+    "title": "Seasonal melting and the formation of sedimentary rocks on Mars, with predictions for the Gale Crater mound",
+    "authors": [
+      "Edwin S. Kite",
+      "Itay Halevy",
+      "Melinda A. Kahre",
+      "Michael J. Wolff",
+      "Michael Manga"
+    ],
+    "summary": "A model for the formation and distribution of sedimentary rocks on Mars is\nproposed. The rate-limiting step is supply of liquid water from seasonal\nmelting of snow or ice. The model is run for a O(10^2) mbar pure CO2\natmosphere, dusty snow, and solar luminosity reduced by 23%. For these\nconditions snow only melts near the equator, and only when obliquity >40\ndegrees, eccentricity >0.12, and perihelion occurs near equinox. These\nrequirements for melting are satisfied by 0.01-20% of the probability\ndistribution of Mars' past spin-orbit parameters. Total melt production is\nsufficient to account for aqueous alteration of the sedimentary rocks. The\npattern of seasonal snowmelt is integrated over all spin-orbit parameters and\ncompared to the observed distribution of sedimentary rocks. The global\ndistribution of snowmelt has maxima in Valles Marineris, Meridiani Planum and\nGale Crater. These correspond to maxima in the sedimentary-rock distribution.\nHigher pressures and especially higher temperatures lead to melting over a\nbroader range of spin-orbit parameters. The pattern of sedimentary rocks on\nMars is most consistent with a Mars paleoclimate that only rarely produced\nenough meltwater to precipitate aqueous cements and indurate sediment. The\nresults suggest intermittency of snowmelt and long globally-dry intervals,\nunfavorable for past life on Mars. This model makes testable predictions for\nthe Mars Science Laboratory rover at Gale Crater. Gale Crater is predicted to\nbe a hemispheric maximum for snowmelt on Mars.",
+    "pdf_url": "http://arxiv.org/pdf/1205.6226v1",
+    "published": "2012-05-28"
+  },
+  "2404.13327v2": {
+    "title": "Comparative Analysis on Snowmelt-Driven Streamflow Forecasting Using Machine Learning Techniques",
+    "authors": [
+      "Ukesh Thapa",
+      "Bipun Man Pati",
+      "Samit Thapa",
+      "Dhiraj Pyakurel",
+      "Anup Shrestha"
+    ],
+    "summary": "The rapid advancement of machine learning techniques has led to their\nwidespread application in various domains including water resources. However,\nsnowmelt modeling remains an area that has not been extensively explored. In\nthis study, we propose a state-of-the-art (SOTA) deep learning sequential\nmodel, leveraging the Temporal Convolutional Network (TCN), for snowmelt-driven\ndischarge modeling in the Himalayan basin of the Hindu Kush Himalayan Region.\nTo evaluate the performance of our proposed model, we conducted a comparative\nanalysis with other popular models including Support Vector Regression (SVR),\nLong Short Term Memory (LSTM), and Transformer. Furthermore, Nested\ncross-validation (CV) is used with five outer folds and three inner folds, and\nhyper-parameter tuning is performed on the inner folds. To evaluate the\nperformance of the model mean absolute error (MAE), root mean square error\n(RMSE), R square ($R^{2}$), Kling-Gupta Efficiency (KGE), and Nash-Sutcliffe\nEfficiency (NSE) are computed for each outer fold. The average metrics revealed\nthat TCN outperformed the other models, with an average MAE of 0.011, RMSE of\n0.023, $R^{2}$ of 0.991, KGE of 0.992, and NSE of 0.991. The findings of this\nstudy demonstrate the effectiveness of the deep learning model as compared to\ntraditional machine learning approaches for snowmelt-driven streamflow\nforecasting. Moreover, the superior performance of TCN highlights its potential\nas a promising deep learning model for similar hydrological applications.",
+    "pdf_url": "http://arxiv.org/pdf/2404.13327v2",
+    "published": "2024-04-20"
+  }
+}
